@@ -84,8 +84,6 @@ To get started with ES6, follow these steps:
   console.log(person.fullName()); // Output: John Doe
   ```
 
-## Conclusion
-Congratulations on completing this beginner's guide to ES6! You've learned about the new features introduced in ES6, including constants, variables, arrow functions, default function parameters, string templating, object creation and properties, and iterators. Remember to practice writing code using these features to solidify your understanding. JavaScript is a versatile language, and ES6 opens up a world of possibilities for your coding journey. Keep exploring and happy coding!
 
 ## Resources
 To deepen your knowledge of ES6, you can refer to the following resources:
